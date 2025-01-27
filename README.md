@@ -30,6 +30,11 @@ SQL개발자(SQLD)</p>
   
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 &nbsp;
+<img src="https://img.shields.io/badge/laravel-brightgreen?style=for-the-badge&logo=laravel&logoColor=white">
+</p>
+
+<img src="https://img.shields.io/badge/php?style=for-the-badge&logo=php&logoColor=white">
+&nbsp;
 <img src="https://img.shields.io/badge/SPRING BOOT-brightgreen?style=for-the-badge&logo=springboot&logoColor=white">
 </p>
 
