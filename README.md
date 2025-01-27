@@ -48,15 +48,19 @@ SQL개발자(SQLD)</p>
 </p>
 
 <!-- DB -->
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue">
 &nbsp;
 <img src="https://img.shields.io/badge/postgreSql-lightgrey?logo=postgresql&style=for-the-badge&logoColor=white&labelColor=blue">
+<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
 <!-- 배포 -->
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/ncloud-03C75A?style=for-the-badge&logo=ncloud&logoColor=white">
 </p>
 
 <!-- 협업툴 -->
