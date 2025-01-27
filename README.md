@@ -35,6 +35,7 @@ SQL개발자(SQLD)</p>
 
 <img src="https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue">
 &nbsp;
+<img src="https://img.shields.io/badge/postgreSql-lightgrey?logo=postgresql&style=for-the-badge&logoColor=white&labelColor=blue">
 </p>
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
