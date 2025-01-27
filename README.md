@@ -21,7 +21,7 @@ SQL개발자(SQLD)</p>
 리눅스마스터2급</p>
 -->
 <div align="center">
-<h1>🏆 Skills 🏆<h1>
+<h1>📚 Skills 📚<h1>
 
 <!-- HTML -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <!-- HTML5 -->
