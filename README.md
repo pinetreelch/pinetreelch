@@ -20,6 +20,8 @@ SQL개발자(SQLD)</p>
 리눅스마스터2급</p>
 
 <h1>🏆 Skills 🏆<h1>
+
+<!-- HTML -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <!-- HTML5 -->
 &nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>   <!-- css3 -->
@@ -28,16 +30,19 @@ SQL개발자(SQLD)</p>
 &nbsp;
 </p>
   
+<!--  JAVA -->
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/SPRING BOOT-brightgreen?style=for-the-badge&logo=springboot&logoColor=white">
 </p>
 
+<!-- php -->
 <img src="https://img.shields.io/badge/php?style=for-the-badge&logo=php&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/laravel-brightgreen?style=for-the-badge&logo=laravel&logoColor=white">
 </p>
 
+<!-- DB -->
 <img src="https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue">
 &nbsp;
 <img src="https://img.shields.io/badge/postgreSql-lightgrey?logo=postgresql&style=for-the-badge&logoColor=white&labelColor=blue">
