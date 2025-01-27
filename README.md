@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=풀스택%20개발자를%20꿈꿉니다&fontSize=50&fontAlignY=34)
@@ -18,6 +19,7 @@
 정보처리기사</p>
 SQL개발자(SQLD)</p>
 리눅스마스터2급</p>
+-->
 
 <h1>🏆 Skills 🏆<h1>
 
