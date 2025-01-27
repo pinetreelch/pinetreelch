@@ -20,7 +20,7 @@
 SQL개발자(SQLD)</p>
 리눅스마스터2급</p>
 -->
-
+<div align="center">
 <h1>🏆 Skills 🏆<h1>
 
 <!-- HTML -->
