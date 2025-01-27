@@ -39,7 +39,7 @@ SQL개발자(SQLD)</p>
 <!-- php -->
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/laravel-brightgreen?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </p>
 
 <!-- DB -->
